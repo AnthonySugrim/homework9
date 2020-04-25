@@ -1,5 +1,5 @@
 
-  ##GitHub ReadMe Generator 
+  ## GitHub ReadMe Generator 
   ## Description
 
 This project is a Github Readme generator which takes users input about their project and creates a Readme.md file.
